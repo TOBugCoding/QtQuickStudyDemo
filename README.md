@@ -1,0 +1,2 @@
+# QtQuickStudyDemo
+Learning QtQuick
