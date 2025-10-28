@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>QML/DrawCanvas.qml</file>
+        <file>QML/TopBar.qml</file>
+        <file>QML/ResizeHandle.qml</file>
+    </qresource>
+</RCC>
